@@ -19,7 +19,7 @@ There are 2 pages to demonstrate the implementation:
 - Docker
 - XAMPP
 - VS Code
-- MySQL
+- MySQL, PHP, HTML, CSS
 - Google Authenticator App (mobile)
 
 ## Team
