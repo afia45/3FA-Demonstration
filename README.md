@@ -29,5 +29,5 @@ There are 2 pages to demonstrate the implementation:
 - C201280 Afroza Sultana (Research)
 
 ## Slides
-![Group 7](Group 7_Techies.pdf)
+([Group 7 pdf](https://github.com/blurryface14/3FA-/blob/main/Group%207_Techies.pdf))
 
